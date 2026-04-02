@@ -1,0 +1,28 @@
+<svg width="720" height="540" viewBox="0 0 720 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="540" rx="32" fill="url(#bg)"/>
+  <circle cx="120" cy="110" r="70" fill="#FFD34D" fill-opacity="0.65"/>
+  <circle cx="610" cy="92" r="54" fill="#9FDBFF" fill-opacity="0.8"/>
+  <circle cx="596" cy="428" r="88" fill="#2DE0C4" fill-opacity="0.32"/>
+  <rect x="84" y="132" width="552" height="314" rx="28" fill="#FFFFFF" fill-opacity="0.2" stroke="#FFFFFF" stroke-opacity="0.44" stroke-width="2"/>
+  <rect x="126" y="184" width="468" height="186" rx="24" fill="#FFFFFF" fill-opacity="0.8"/>
+  <rect x="156" y="222" width="126" height="18" rx="9" fill="#FF7A3D"/>
+  <rect x="156" y="254" width="254" height="14" rx="7" fill="#C6D5F3"/>
+  <rect x="156" y="280" width="210" height="14" rx="7" fill="#D5E2F9"/>
+  <rect x="156" y="330" width="190" height="18" rx="9" fill="#0F7BFF" fill-opacity="0.18"/>
+  <rect x="430" y="218" width="120" height="120" rx="28" fill="url(#card)"/>
+  <path d="M491 242C516 242 536 262 536 287V289H516V287C516 273 505 262 491 262C477 262 466 273 466 287V289H446V287C446 262 466 242 491 242Z" fill="white"/>
+  <circle cx="491" cy="287" r="22" fill="#FFD34D"/>
+  <rect x="322" y="398" width="80" height="14" rx="7" fill="#FFFFFF" fill-opacity="0.42"/>
+  <rect x="278" y="424" width="168" height="14" rx="7" fill="#FFFFFF" fill-opacity="0.28"/>
+  <defs>
+    <linearGradient id="bg" x1="37" y1="36" x2="674" y2="510" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF7A3D"/>
+      <stop offset="0.5" stop-color="#0F7BFF"/>
+      <stop offset="1" stop-color="#19C5B2"/>
+    </linearGradient>
+    <linearGradient id="card" x1="430" y1="218" x2="550" y2="338" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F7BFF"/>
+      <stop offset="1" stop-color="#19C5B2"/>
+    </linearGradient>
+  </defs>
+</svg>

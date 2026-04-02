@@ -1,0 +1,22 @@
+<svg width="520" height="360" viewBox="0 0 520 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="360" rx="28" fill="#F3F8FF"/>
+  <circle cx="418" cy="84" r="50" fill="#FFE08A"/>
+  <rect x="126" y="180" width="268" height="98" rx="22" fill="url(#router)"/>
+  <rect x="154" y="204" width="36" height="12" rx="6" fill="white" fill-opacity="0.92"/>
+  <rect x="154" y="226" width="24" height="12" rx="6" fill="white" fill-opacity="0.68"/>
+  <circle cx="340" cy="227" r="8" fill="#FFD34D"/>
+  <circle cx="364" cy="227" r="8" fill="#56F0DA"/>
+  <path d="M190 180V116" stroke="#173053" stroke-width="8" stroke-linecap="round"/>
+  <path d="M332 180V116" stroke="#173053" stroke-width="8" stroke-linecap="round"/>
+  <path d="M216 124C241 100 282 100 306 124" stroke="#0F7BFF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M232 148C249 131 274 131 290 148" stroke="#FF7A3D" stroke-width="10" stroke-linecap="round"/>
+  <path d="M251 170C256 165 265 165 270 170" stroke="#19C5B2" stroke-width="10" stroke-linecap="round"/>
+  <rect x="208" y="278" width="20" height="34" rx="8" fill="#173053"/>
+  <rect x="292" y="278" width="20" height="34" rx="8" fill="#173053"/>
+  <defs>
+    <linearGradient id="router" x1="126" y1="180" x2="394" y2="278" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173053"/>
+      <stop offset="1" stop-color="#244A80"/>
+    </linearGradient>
+  </defs>
+</svg>
